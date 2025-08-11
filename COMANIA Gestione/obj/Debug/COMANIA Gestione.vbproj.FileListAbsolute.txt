@@ -1,0 +1,93 @@
+c:\users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.login.resources
+c:\users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.Resources.resources
+c:\users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA Gestione.vbproj.GenerateResource.Cache
+c:\users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA Gestione.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.registrazione.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.eliminaaccount.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggiorna.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.exe
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.xml
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.pdb
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.Utente.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggutenti.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.ModLavori.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.checkbars.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.editname.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.editimage.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.visualizzacompletati.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.changelog.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.stampa.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA Gestione.vbprojResolveAssemblyReference.cache
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.other.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.eliminando.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.visualizzanonfiniti.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.downloadxls.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.modificadifetti.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggiornandodati.resources
+C:\Users\lucat\documents\visual studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggnomecliente.resources
+C:\Users\lucat\OneDrive\Desktop\comania\COMPUTERMANIA.exe.config
+C:\Users\lucat\OneDrive\Desktop\comania\COMPUTERMANIA.exe
+C:\Users\lucat\OneDrive\Desktop\comania\COMPUTERMANIA.pdb
+C:\Users\lucat\OneDrive\Desktop\comania\COMPUTERMANIA.xml
+C:\Users\lucat\Desktop\comania\COMPUTERMANIA.exe.config
+C:\Users\lucat\Desktop\comania\COMPUTERMANIA.exe
+C:\Users\lucat\Desktop\comania\COMPUTERMANIA.pdb
+C:\Users\lucat\Desktop\comania\COMPUTERMANIA.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggiorna.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggiornandodati.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggnomecliente.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggutenti.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.changelog.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.checkbars.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.downloadxls.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.editimage.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.editname.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.eliminaaccount.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.eliminando.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.login.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.modificadifetti.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.ModLavori.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.other.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.registrazione.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.stampa.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.Utente.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.visualizzacompletati.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.visualizzanonfiniti.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA Gestione.vbproj.GenerateResource.Cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA Gestione.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.materiale.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.loadingg.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggiorna.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggiornandodati.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggnomecliente.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.aggutenti.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.changelog.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.checkbars.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.downloadxls.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.editimage.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.editname.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.eliminaaccount.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.eliminando.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.loadingg.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.login.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.materiale.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.modificadifetti.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.ModLavori.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.other.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.registrazione.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.sceglistampante.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.stampa.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.Utente.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.visualizzacompletati.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA_Gestione.visualizzanonfiniti.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA Gestione.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA Gestione.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMPUTERMANIA.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\COMANIA Gestione\COMANIA Gestione\obj\Debug\COMANIA Gestione.vbprojAssemblyReference.cache

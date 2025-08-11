@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+COMPUTERMANIA
+</name>
+</assembly>
+<members>
+<member name="T:COMANIA_Gestione.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.Add">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.add_a_person_outlined_interface_sign_318_74282">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.add_file_318_67615">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.delete">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.dice_with_question_mark">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.dots_2">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.download">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.Editing_edit_icon">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.freccia_animata_dx">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.giphy">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.icon_1294478_960_720">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.icona">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Icon simile a (Icona).
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.lista">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Byte[].
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.Logo">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.printIcon_bw">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.Rounded_shift_down_arrow">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.save">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.saved">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.short_round_up_arrow_512">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.sync_circle_blue_512">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.todo_list_pen">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.unnamed">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.unnamed__1_">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.update">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:COMANIA_Gestione.My.Resources.Resources.update1">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

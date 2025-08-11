@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6486E34-FA8B-4400-BE1E-4FD300F865BF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>COMANIA_Gestione.My.MyApplication</StartupObject>
+    <RootNamespace>COMANIA_Gestione</RootNamespace>
+    <AssemblyName>COMPUTERMANIA</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\..\..\..\..\Desktop\comania\</OutputPath>
+    <DocumentationFile>COMPUTERMANIA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>COMPUTERMANIA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WhatsAppApi">
+      <HintPath>..\..\..\..\..\..\Desktop\WHATAPP_API_2016\x86\WhatsAppApi.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aggiorna.Designer.vb">
+      <DependentUpon>aggiorna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aggiorna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aggiornandodati.Designer.vb">
+      <DependentUpon>aggiornandodati.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aggiornandodati.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aggnomecliente.Designer.vb">
+      <DependentUpon>aggnomecliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aggnomecliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aggutenti.Designer.vb">
+      <DependentUpon>aggutenti.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aggutenti.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changelog.Designer.vb">
+      <DependentUpon>changelog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changelog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkbars.Designer.vb">
+      <DependentUpon>checkbars.vb</DependentUpon>
+    </Compile>
+    <Compile Include="checkbars.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="downloadxls.Designer.vb">
+      <DependentUpon>downloadxls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="downloadxls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editimage.Designer.vb">
+      <DependentUpon>editimage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editimage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editname.Designer.vb">
+      <DependentUpon>editname.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editname.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eliminaaccount.Designer.vb">
+      <DependentUpon>eliminaaccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="eliminaaccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eliminando.Designer.vb">
+      <DependentUpon>eliminando.vb</DependentUpon>
+    </Compile>
+    <Compile Include="eliminando.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loadingg.Designer.vb">
+      <DependentUpon>loadingg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loadingg.vb" />
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="materiale.Designer.vb">
+      <DependentUpon>materiale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="materiale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificadifetti.Designer.vb">
+      <DependentUpon>modificadifetti.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modificadifetti.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModLavori.Designer.vb">
+      <DependentUpon>ModLavori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModLavori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="other.Designer.vb">
+      <DependentUpon>other.vb</DependentUpon>
+    </Compile>
+    <Compile Include="other.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrazione.Designer.vb">
+      <DependentUpon>registrazione.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registrazione.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sceglistampante.Designer.vb">
+      <DependentUpon>sceglistampante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sceglistampante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stampa.Designer.vb">
+      <DependentUpon>stampa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stampa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utente.Designer.vb">
+      <DependentUpon>Utente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visualizzacompletati.Designer.vb">
+      <DependentUpon>visualizzacompletati.vb</DependentUpon>
+    </Compile>
+    <Compile Include="visualizzacompletati.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visualizzanonfiniti.Designer.vb">
+      <DependentUpon>visualizzanonfiniti.vb</DependentUpon>
+    </Compile>
+    <Compile Include="visualizzanonfiniti.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="aggiorna.resx">
+      <DependentUpon>aggiorna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aggiornandodati.resx">
+      <DependentUpon>aggiornandodati.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aggnomecliente.resx">
+      <DependentUpon>aggnomecliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aggutenti.resx">
+      <DependentUpon>aggutenti.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changelog.resx">
+      <DependentUpon>changelog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkbars.resx">
+      <DependentUpon>checkbars.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="downloadxls.resx">
+      <DependentUpon>downloadxls.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editimage.resx">
+      <DependentUpon>editimage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editname.resx">
+      <DependentUpon>editname.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminaaccount.resx">
+      <DependentUpon>eliminaaccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminando.resx">
+      <DependentUpon>eliminando.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loadingg.resx">
+      <DependentUpon>loadingg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="materiale.resx">
+      <DependentUpon>materiale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificadifetti.resx">
+      <DependentUpon>modificadifetti.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModLavori.resx">
+      <DependentUpon>ModLavori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="other.resx">
+      <DependentUpon>other.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrazione.resx">
+      <DependentUpon>registrazione.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sceglistampante.resx">
+      <DependentUpon>sceglistampante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stampa.resx">
+      <DependentUpon>stampa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utente.resx">
+      <DependentUpon>Utente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visualizzacompletati.resx">
+      <DependentUpon>visualizzacompletati.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visualizzanonfiniti.resx">
+      <DependentUpon>visualizzanonfiniti.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lista.xls" />
+    <None Include="Resources\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+    <None Include="Resources\sync-circle-blue-512.png" />
+    <None Include="Resources\add-a-person-outlined-interface-sign_318-74282.jpg" />
+    <None Include="Resources\todo-list-pen.png" />
+    <None Include="Resources\Rounded_shift_down_arrow.png" />
+    <None Include="Resources\short_round_up_arrow-512.png" />
+    <None Include="Resources\Add.png" />
+    <None Include="Resources\dots_2.gif" />
+    <None Include="Resources\update.png" />
+    <None Include="Resources\dice with question mark.jpg" />
+    <None Include="Resources\unnamed %281%29.png" />
+    <None Include="Resources\giphy.gif" />
+    <None Include="Resources\printIcon_bw.png" />
+    <None Include="Resources\add-file_318-67615.jpg" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\save.ico" />
+    <None Include="Resources\saved.jpg" />
+    <None Include="Resources\icon-1294478_960_720.png" />
+    <None Include="Resources\Editing-edit-icon.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\unnamed.png" />
+    <None Include="Resources\freccia_animata_dx.gif" />
+    <None Include="Resources\update.gif" />
+    <None Include="Resources\delete.jpg" />
+    <None Include="Resources\Logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
